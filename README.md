@@ -1,8 +1,9 @@
-[![Deployed Portfolio](https://github.com/ShowlandProductions/reactportfolio)]
-![Repository](https://github.com/ShowlandProductions/reactportfolio)
+## Deployed Portfolio
+
+## ![Repository]
+https://github.com/ShowlandProductions/reactportfolio
 
 ## Preview
-![Preview]()
 
 ## How to use
 1. Run  ``` npm install ```.
